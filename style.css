@@ -17,3 +17,14 @@ li{
 a{
     text-decoration: none;
 }
+
+
+/* Quote section  */
+.quote-text{
+    position: relative;
+}
+.toast-area{
+    position: absolute;
+    top: 25px;
+    right: 0;
+}
