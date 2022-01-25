@@ -61,6 +61,7 @@ main > section > h3{
     border-bottom: 2px solid #4190f2;
 }
 
+/* //////////////////////////////////// */
 
 
 /* Quote section  */
@@ -70,11 +71,20 @@ main > section > h3{
 .toast-area{
     position: absolute;
     top: 25px;
-    right: 0;
+    right: 20px;
 }
 
 
 /* Cards/ Pricing  */
 .hot-deal{
     transform: scaleY(1.1);
+}
+
+/* Footer section  */
+footer{
+    background-color: #0B0D17;
+    height: 280px;
+}
+footer span{
+    color: white;
 }
